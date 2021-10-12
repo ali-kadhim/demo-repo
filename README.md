@@ -1,2 +1,2 @@
 # Demo 
-This is an intoduction file 
+This is an intoduction file of how to use Git and Github!
