@@ -1,5 +1,5 @@
 # Demo 
-This is an intoduction file of how to use Git and Github!
+This is an introduction file of how to use Git and Github!
 
 ## subheader 
 
